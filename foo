@@ -3,3 +3,5 @@ somekey1
 somekey2:foo2
 somekey3:
   foo3
+env:
+  dev1
